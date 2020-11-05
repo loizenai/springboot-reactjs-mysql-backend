@@ -13,8 +13,11 @@ List to do:
 
 Related posts: Reactjs + SpringBoot Serial Tutorials ->
 
-How to Integrate Reactjs with SpringBoot Tutorial https://loizenai.com/integrate-reactjs-springboot/
+## 1. How to Integrate Reactjs with SpringBoot Tutorial 
+https://loizenai.com/integrate-reactjs-springboot/
 
-SpringBoot + React + PostgreSQL: SpringBoot React.js CRUD Example https://loizenai.com/reactjs-springboot-crud-postgresql/
+## 2. SpringBoot + React + PostgreSQL: SpringBoot React.js CRUD Example 
+https://loizenai.com/reactjs-springboot-crud-postgresql/
 
-Tutorial: SpringBoot + React + MongoDB – SpringBoot React.js CRUD Example https://loizenai.com/springboot-reactjs-mongodb-crud/
+## 3. Tutorial: SpringBoot + React + MongoDB – SpringBoot React.js CRUD Example 
+https://loizenai.com/springboot-reactjs-mongodb-crud/
