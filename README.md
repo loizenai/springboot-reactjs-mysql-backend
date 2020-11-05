@@ -1,4 +1,4 @@
-# springboot-reactjs-mysql-backend
+# springboot-reactjs-mysql
 Link: https://loizenai.com/springboot-react-mysql-crud-example/
 
 Tutorial: SpringBoot + React + MySQL: SpringBoot React.js CRUD Example
